@@ -1,0 +1,112 @@
+/*CSS DOCUMENT*/
+
+img {
+    width: 100%; 
+
+}
+
+body {
+	background-color: rgb(234, 238, 215);
+}
+
+div.container {
+	background-color: rgb(234, 238, 215);
+    margin: auto;
+}
+
+header {
+	background-color: rgb(234, 238, 215);
+	padding: 1.1em;
+}
+
+main {
+	padding: 0.5em;
+}
+
+h1 {
+	color: rgb(255,255,255);
+	font-family: Mr Eaves Sans, serif;
+	font-weight: 700;
+	font-style: normal;
+	margin-bottom: 0.75em;
+    width: 6em;
+}
+
+h2 {
+	color: rgb(43, 49, 38);
+	font-family: Mr Eaves XL, sans-serif;
+	font-weight: 600;
+	font-style: Mod OT Bold;
+	margin: 1em 2em 1.6em 0.7em;
+}
+
+
+h3 {
+	font-family: mr eaves xl, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: rgb(26, 25, 24);
+	margin: 2em 1em 0em 1em;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+
+h4 {
+	font-family: Paralucent, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	color: rgb(34, 33, 32);
+	margin: 1em 1em .25em 1em;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+
+footer {
+	background-color: rgb(42, 51, 41);
+	color: rgb(255,255,255);
+	padding: 1.5em 1em 0.5em 0.20em;
+}
+
+p {
+	font-family: mr eaves sans, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+    margin: 0.5em 3em 1.3em 1em;
+    letter-spacing: 0.01em;
+}
+
+nav ul{
+    padding:0;
+}
+
+nav ul li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 1em;
+    font-family: Paralucent, sans-serif;
+    font-weight: 500;
+    font-size: 1.7em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+
+}
+
+nav ul li a{
+    color:rgb(26, 25, 24);
+    text-decoration: none; 
+}
+
+nav ul li a:hover{
+    color: #798d67;
+}
+figure {  
+    margin: 1em;
+}
+
+figcaption {
+	font-family: Mr Eaves Sans, sans-serif;
+	font-weight: 400;	
+	font-style: italic;
+	color: rgb(0,0,0);
+	padding: .5em 1.5em 0.5em 0em;
+}
